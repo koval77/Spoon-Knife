@@ -28,3 +28,28 @@ item{
   text-shadow: cornflowerblue;
 }
 /*todo*/
+
+.flex-container{
+  display: flex;
+  width: 800px;
+  background-color: antiquewhite;
+  margin: auto;
+}
+
+.flex-container>div{
+  padding: 5px;
+  margin: 10px;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: darkgray;
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-right-color: darkgray;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: darkgray;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: darkgray;
+  box-shadow: darkgray ;
+}

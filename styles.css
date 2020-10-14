@@ -15,3 +15,15 @@ p {
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
+ell{
+  display: flex;
+  align-content: center;;
+}
+
+item{
+  background-color: yellow;
+  margin: auto;
+  font-family: "Book Antiqua", serif;
+  font-size: medium;
+  text-shadow: cornflowerblue;
+}
